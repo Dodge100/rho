@@ -1,0 +1,18 @@
+{
+  "lastChangelogVersion": "0.80.2",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-ultra-compact",
+    "npm:pi-loadout",
+    "npm:@quintinshaw/pi-dynamic-workflows",
+    "npm:pi-wakatime"
+  ],
+  "defaultProvider": "opencode",
+  "defaultModel": "deepseek-v4-flash-free",
+  "defaultThinkingLevel": "high",
+  "theme": "dark",
+  "enableInstallTelemetry": false,
+  "transport": "sse",
+  "quietStartup": true,
+  "collapseChangelog": true
+}

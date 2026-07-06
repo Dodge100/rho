@@ -1,0 +1,23 @@
+# ── Sensitive / secret ──────────────────────────────────────────────────────
+auth.json
+**/auth.json
+
+# ── Runtime data (auto-generated, session-specific) ────────────────────────
+agent/scars/
+agent/sessions/
+agent/bin/
+workflows/
+pi-acp/
+
+# ── Installed packages (reproducible via `pi install` + package.json) ─────
+agent/npm/node_modules/
+agent/npm/package-lock.json
+
+# ── OS / editor cruft ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.env
+.env.local

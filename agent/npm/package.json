@@ -1,0 +1,12 @@
+{
+  "name": "pi-extensions",
+  "private": true,
+  "dependencies": {
+    "@quintinshaw/pi-dynamic-workflows": "^2.9.0",
+    "@tmustier/pi-ralph-wiggum": "^0.2.1",
+    "pi-loadout": "^0.0.35",
+    "pi-ultra-compact": "^1.2.0",
+    "pi-wakatime": "^1.1.1",
+    "pi-web-access": "^0.13.0"
+  }
+}
